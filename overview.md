@@ -20,6 +20,7 @@ Some of the key problems we observed were:
 * **Account abstractions / smart contract wallets managing assets on multiple blockchains**
     * Some smart contract wallet solutions offer gas relaying for gasless transactions, but this usually only works for a limited set of "supported" blockchains.
 
+
 These and other problems are the reason we're working on building **Klaster Gateway**, an easy & standardized way for EOAs and smart contracts to control assets & addresses on multiple blockchains.
 
 Key features:
